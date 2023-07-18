@@ -1,7 +1,7 @@
 ### 🚀 Hi, I'm Kuhu 👋🏾 👩🏾‍💻
 
 
-
+<img src="contributions-giphy.gif" height="200px" width="800px" />
 
 
 I'm a MERN stack developer currently learning frontend development.
